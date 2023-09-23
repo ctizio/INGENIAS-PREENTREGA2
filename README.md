@@ -1,5 +1,5 @@
 # App PRENDAS
-La funcionalidad principal de esta app es contar con una Base de Datos llamada Mongodb, donde se podrán consultar nombre, precios y tipos de frutas disponibles
+La funcionalidad principal de esta app es contar con una Base de Datos llamada Mongodb, donde se podrán consultar nombre, precios y tipos de prendas disponibles
 
 ## Requisitos funcionales:
 Instalar:
